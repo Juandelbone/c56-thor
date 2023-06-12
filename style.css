@@ -1,0 +1,33 @@
+body{
+    color : black;
+    text-align : center;
+
+}
+
+#pet_name
+{
+    color:red
+}
+
+.fact1
+{
+    color :red;
+    border: 2px solid black;
+    background-color: gray;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h3
+{
+    color:purple;
+    font-size: 20px;
+}
+
+a
+{
+    font-size: 20px;
+    border-style: solid;
+    border-color: darkblue;
+    
+}
